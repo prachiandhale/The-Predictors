@@ -3,6 +3,7 @@ AI-powered Fake News Detector that uses Machine Learning and NLP to identify whe
 
 ## Dataset
 We use a labeled news dataset containing Real and Fake news articles. The dataset is used to train and test our Machine Learning model for detecting fake news.
+
 Dataset link = fake_news_detector_dataset.csv.xls
 
 ## Features
